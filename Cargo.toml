@@ -1,0 +1,8 @@
+[package]
+name = "limbo"
+version = "0.1.0"
+edition = "2024"
+description = "Study implementation of 'Serverless Runtime / Database Co-Design With Asynchronous I/O' (EdgeSys '24)"
+publish = false
+
+[dependencies]
